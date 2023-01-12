@@ -7,7 +7,7 @@ Sample input:
 3/7 4
 </pre>
 
-Sample output:
+Corresponding output:
 <pre>
 0.4286
 </pre>
